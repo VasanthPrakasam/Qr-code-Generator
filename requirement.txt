@@ -1,0 +1,2 @@
+qrcode (pip install qrcode)
+image (pip install image)
